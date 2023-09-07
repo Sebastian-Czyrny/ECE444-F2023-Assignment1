@@ -13,3 +13,7 @@
 ### Merged develop to main
 
 ![picture of successful merge to main](images/merge_develop_main.jpg)
+
+## Pictures of Commits for utils.py and utils_tests.py
+
+![picture of utils.py and utils_tests.py commits](images/utils_and_tests_commit_list.jpg)
