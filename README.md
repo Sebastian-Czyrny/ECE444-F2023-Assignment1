@@ -35,13 +35,17 @@ Pictures of Commits for utils.py and utils_tests.py
 Pictures of rebase commands
 
 1. Created branch rebase and created commits c1 and c2
-   ![picture of rebase commits c1 and c2](images/rebase_1.jpg)
+
+    ![picture of rebase commits c1 and c2](images/rebase_1.jpg)
 
 2. Moved back onto branch develop and created commits c3 and c4
-   ![picture of develop commits c3 and c4](iamges/rebase_2.jpg)
+
+    ![picture of develop commits c3 and c4](images/rebase_2.jpg)
 
 3. Moved back onto branch rebase and rebased against branch develop
-   ![picture of rebasing against develop](images/rebase_3.jpg)
+
+    ![picture of rebasing against develop](images/rebase_3.jpg)
 
 4. Moved back onto branch develop and rebased branch rebase onto branch develop
-   ![picture of develop rebasing branch rebase](images/rebase_4.jpg)
+
+    ![picture of develop rebasing branch rebase](images/rebase_4.jpg)
