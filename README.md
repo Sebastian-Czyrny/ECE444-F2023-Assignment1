@@ -29,7 +29,12 @@ Below picture depicts merge conflict as seen from helloworld.py
 ![picture of successful merge to main](images/merge_develop_main.jpg)
 
 Below picture depicts the terminal after the resolution of the conflicts
+
 ![picture of merge conflict resolution](images/merge_conflict_res_2.jpg)
+
+Below picture depicts successful merge as seen from github
+
+![picture of github merge success](images/merge_conflict_res_github_2.jpg)
 
 ## Activity 4
 
