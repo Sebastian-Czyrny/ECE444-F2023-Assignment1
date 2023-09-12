@@ -14,15 +14,22 @@ Picture of merge output
 
 ## Activity 3
 
-Picture of Merge conflict resolution
+Below picture depicts the merge conflict as seen on github
 
-### Resolved conflit in develop branch then pushed
+![picture of develop conflict resolution](images/merge_conflict_2.jpg)
 
-![picture of develop conflict resolution](images/merge_fix_conflict.jpg)
+Below picture depicts merge conflict as seen from terminal
 
-### Merged develop to main
+![merge conflict, terminal](images/merge_conflict_terminal_2.jpg)
+
+Below picture depicts merge conflict as seen from helloworld.py
+
+![merge conflict, helloworld.py](images/merge_conflict_file_2.jpg)
 
 ![picture of successful merge to main](images/merge_develop_main.jpg)
+
+Below picture depicts the terminal after the resolution of the conflicts
+![picture of merge conflict resolution](images/merge_conflict_res_2.jpg)
 
 ## Activity 4
 
